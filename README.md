@@ -4,7 +4,7 @@ Este projeto consiste em uma automação desenvolvida em Python utilizando a bib
 
 ![OIG2](https://github.com/manuggetts/autobot/assets/141872152/815ac3dd-4d96-4d0a-94fe-d2a24fa5e131 "Imagem gerada pelo Copilot.")
 
-## Funcionalidades
+## Funcionalidades 🚀
 
 - Realiza login no site de contabilidade.
 - Extrai dados de uma planilha Excel contendo informações (nome, email etc) sobre empresas.
@@ -12,14 +12,14 @@ Este projeto consiste em uma automação desenvolvida em Python utilizando a bib
 - Clica no botão de cadastro para submeter os dados.
 - Repete a operação.
 
-## Requisitos
+## Requisitos ✅
 
 - Python 3.x
 - Selenium
 - Chrome
 - ChromeDriver (opcional, dependendo da configuração do ambiente)
 
-## Como Usar
+## Como Usar 🛠️
 
 1. Clone este repositório:
 
@@ -39,13 +39,12 @@ pip install selenium openpyxl
 python app.py
 ```
 
-
 ### Observações
 
 - Ao executar o script, aguarde enquanto o navegador Google Chrome é aberto automaticamente e os formulários são preenchidos de forma automatizada.
 - Certifique-se de que o arquivo `empresas.xlsx` está localizado no mesmo diretório que o arquivo `app.py` e que contém os dados das empresas a serem cadastradas.
 
-## Configuração
+## Configuração ⚙️
 
 - Edite o arquivo `empresas.xlsx` para adicionar os dados das empresas que deseja cadastrar.
 - Certifique-se de fornecer as credenciais de login no arquivo `app.py`.
@@ -53,7 +52,7 @@ python app.py
 ## Referências 📌
 - <a href="https://www.youtube.com/@DevAprender" target="_blank">Dev Aprender</a>
 
-## Contribuição
+## Contribuição 🤝
 
 Contribuições são bem-vindas! Se você tiver alguma sugestão, melhoria ou correção, sinta-se à vontade para abrir uma [issue](https://github.com/manuggetts/autobot/issues) ou enviar um [pull request](https://github.com/manuggetts/autobot/pulls).
 
